@@ -1,2 +1,2 @@
-# Java-studying-note
-Zero-based JAVA learning journey
+# Javascript-studying-note
+
